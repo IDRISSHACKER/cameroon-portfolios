@@ -137,6 +137,12 @@ const data = [
 		link: 'https://ebirly.vercel.app',
 		tags: ['FrontEnd', 'BackEnd', 'Mobile', 'Design']
 	},
+	{
+		id: 24,
+		name: 'IDR6IX HACKER',
+		link: 'https://github.com/IDRISSHACKER',
+		tags: ['FrontEnd', 'Web Integration', 'flutter', 'mobile', 'ractjs', 'vuejs', 'python', 'php', 'java', 'redux', 'nodejs', 'express', 'pyqt5'],
+	},
 ]
 
 export default data;
